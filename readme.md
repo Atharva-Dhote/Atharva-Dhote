@@ -4,3 +4,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Atharva-Dhote/count.svg" />
 </p>
+<p align="center"> 
+https://appwrite.io/init/tickets/65d578e1bf0e299ee328
+</p>
